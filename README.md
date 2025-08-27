@@ -11,12 +11,11 @@ This project focuses on creating a responsive and interactive UI similar to Netf
 ![Home Page](assets/homepage.png)  
 ![Movie Section](assets/movies.png)  
 
-### 🔹 Demo Video / GIF  
-(Add a screen recording of your project in `.gif` or `.mp4` format here to impress recruiters)  
-
+## 🎬 Demo
+![Demo](assets/netflix-clone-gif.gif)
 ---
 
-## 🚀 Features  
+## 🚀 Features   
 
 - 🎥 Netflix-like **Home Page UI**  
 - 📱 Fully **Responsive Design** (Mobile, Tablet, Desktop)  
