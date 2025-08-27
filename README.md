@@ -8,12 +8,18 @@ This project focuses on creating a responsive and interactive UI similar to Netf
 ## 📸 Demo  
 
 ### 🔹 Screenshots
-<img src="assets/homepage.png" alt="Homepage Screenshot" width="400"/>
-<img src="assets/movies.png" alt="Movies Screenshot" width="400"/>
+<p align="center">
+  <img src="assets/homepage.png" alt="Homepage" width="400"/>
+  <img src="assets/movie.png" alt="Movies" width="400"/>
+</p>
+
 
 
 ## 🎬 Demo
-<img src="assets/netflix-clone-gif.gif" alt="App Demo" width="600"  height="350"/>
+<p align="center">
+  <img src="assets/netflix-clone-gif.gif" alt="App Demo" width="600"/>
+</p>
+
 
 ---
 
