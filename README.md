@@ -9,8 +9,8 @@ This project focuses on creating a responsive and interactive UI similar to Netf
 
 ### 🔹 Screenshots
 <p align="center">
-  <img src="assets/homepage.png" alt="Homepage" width="400"/>
-  <img src="assets/movie.png" alt="Movies" width="400"/>
+  <img src="assets/homepage.png" alt="Homepage" width="400" height="200"/>
+  <img src="assets/movie.png" alt="Movies" width="400" height="200"/>
 </p>
 
 
